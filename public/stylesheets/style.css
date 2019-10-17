@@ -1,0 +1,18 @@
+/*
+body {
+  color: aliceblue;
+  background-color: rgb(39, 39, 39);
+}
+*/
+
+.footer {
+  background-color: rgb(49, 49, 49);
+  color: aliceblue;
+  position: absolute;
+  right: 0;
+  left: 0;
+  overflow-x: hidden;
+}
+.beta {
+  background-color: red;
+}
