@@ -1,2 +1,2 @@
 # RadioSilence
-Le site de radio silent la seul raio qui ne diffuse pas.
+La seul radio qui ne difuse pas.
